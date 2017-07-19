@@ -25,6 +25,7 @@
 
 #include <ctime>
 #include <chrono>
+#include <string>
 #include "CommonIO.h"
 #include "CommonData.h"
 #include "FixedHash.h"
