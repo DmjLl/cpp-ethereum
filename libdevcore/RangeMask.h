@@ -25,6 +25,7 @@
 #include <utility>
 #include <vector>
 #include <iterator>
+#include <iostream>
 #include <iosfwd>
 #include <assert.h>
 
